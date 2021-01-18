@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am an Assistant Professor in Economics at the University of Amsterdam.
+
+I am using Free Open Source Software for my research. When something doesn't work I try to fix it and contribute the code back.
+
+[![greimel's github stats](https://github-readme-stats.vercel.app/api?username=greimel)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **greimel/greimel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
