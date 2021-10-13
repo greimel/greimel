@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am an Assistant Professor in Economics at the University of Amsterdam.
 
 I am using Free Open Source Software for my research. When something doesn't work I try to fix it and contribute back the code.
